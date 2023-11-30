@@ -20,7 +20,7 @@ export const ProductCard = ({product}) => {
          }
 
 
-    }, [cartList]); //esLint-disable-Line
+    }, [cartList]); //eslint-disable-Line
 
     function handleClick(product){
         
