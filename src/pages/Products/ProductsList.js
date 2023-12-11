@@ -26,8 +26,8 @@ export const ProductsList = () => {
       }
     }
     fetchProducts();
-  }, [searchTerm]);
-  
+  }, [searchTerm, initialProductList]);
+
   return (
     <main>
         <section className="my-5">
