@@ -24,7 +24,7 @@ export const ProductCard = ({product}) => {
 
     function handleClick(product){
         
-        addToCart(product);
+        addToCart(product.id);
     }
 
   return (
