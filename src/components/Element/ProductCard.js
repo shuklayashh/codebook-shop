@@ -20,12 +20,7 @@ export const ProductCard = ({product}) => {
          }
 
 
-    }, [cartList]); //eslint-disable-next-line
-
-    function handleClick(product){
-        
-        addToCart(product.id);
-    }
+    }, [cartList,product.id]); //eslint-disable-line
 
   return (
     <div className="m-3 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
