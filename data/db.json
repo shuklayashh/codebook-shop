@@ -237,10 +237,13 @@
       "best_seller": true
     }
   ],
-  "orders": [
-    
-  ],
+  "orders": [],
   "users": [
-    
+    {
+      "email": "y@gmail.com",
+      "password": "$2a$10$7gjr2Ztqx8ioksS2Xh/HAOz9qeRr4ihuk.37s6DOI78laNnLTavni",
+      "name": "Yash Shukla",
+      "id": 1
+    }
   ]
 }
