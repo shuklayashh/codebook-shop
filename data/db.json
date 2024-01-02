@@ -240,9 +240,15 @@
   "orders": [],
   "users": [
     {
+<<<<<<< HEAD
       "email": "ravi@gmail.com",
       "password": "$2a$10$Dw5XtcHXHiv1TT/DuSLdPeXhb0ry6NujKRZ/4YlmxzEBNiqGlNY9u",
       "name": "Ravi",
+=======
+      "email": "y@gmail.com",
+      "password": "$2a$10$7gjr2Ztqx8ioksS2Xh/HAOz9qeRr4ihuk.37s6DOI78laNnLTavni",
+      "name": "Yash Shukla",
+>>>>>>> dev
       "id": 1
     }
   ]
