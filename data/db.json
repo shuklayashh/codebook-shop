@@ -237,10 +237,13 @@
       "best_seller": true
     }
   ],
-  "orders": [
-    
-  ],
+  "orders": [],
   "users": [
-    
+    {
+      "email": "ravi@gmail.com",
+      "password": "$2a$10$Dw5XtcHXHiv1TT/DuSLdPeXhb0ry6NujKRZ/4YlmxzEBNiqGlNY9u",
+      "name": "Ravi",
+      "id": 1
+    }
   ]
 }
