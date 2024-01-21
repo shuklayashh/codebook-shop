@@ -240,11 +240,16 @@
   "orders": [],
   "users": [
     {
-
       "email": "ravi@gmail.com",
       "password": "$2a$10$Dw5XtcHXHiv1TT/DuSLdPeXhb0ry6NujKRZ/4YlmxzEBNiqGlNY9u",
       "name": "Ravi",
       "id": 1
+    },
+    {
+      "email": "yash@gmail.com",
+      "password": "$2a$10$Y6G8XnGQ5McIgkDh3iRJU.r1HsVDQ/.6D.ARRWkEJA6OoacanpZZ2",
+      "name": "yash",
+      "id": 2
     }
   ]
 }
