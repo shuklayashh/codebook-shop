@@ -21,6 +21,7 @@ export const Header = () => {
       document.documentElement.classList.remove("dark");
     }
   }, [darkMode]);
+  
 
   return (
     <header>      
